@@ -1,0 +1,47 @@
+portfolio_david_repository
+---------------------------
+===PROFILE===
+Nama          : David Kresna 
+NIM           : 20.N1.0003
+Jenis Kelamin : Laki-Laki
+Tanggal Lahir : 21 Januari 2003
+Umur          : 19 Tahun
+Asal Kota     : Semarang
+Program Studi : Sistem Informasi (SI)
+Semester      : 5
+Angkatan      : 2020
+Agama         : Kristen
+Tinggi        : 171Cm
+Berat Badan   : 69 Kg
+Alamat        : Jln. Kuala Mas 6/263 RT 06/13 Semarang Utara,Jawa Tengah
+
+===Contact===
+No Hp : 082137077143
+Facebook : David Kresna
+Instagram  : dvdkrsnaa
+Twitter : dvdkrsnaa
+Email : david.krisna12@gmail.com
+
+===Hobby===
+- Badminton
+- Sepeda
+- Basket
+- Futsal
+
+===Skills===
+- Visual Studio Community
+- Visual Studio Code
+- Adobe Photoshop
+- Canva
+- Adobe Premiere Pro
+- Netbeans IDE
+
+===Education===
+- 2016 - 2018     : SMP Terang Bangsa Semarang
+- 2018 - 2020     : SMA Theresiana 01 Semarang
+- 2020 - Sekarang : UNIKA Soegijapranata Semarang
+
+===Work Experience===
+- 2020 (6 Bulan) : Barista Ruang Hati Tanah Mas Semarang
+---------------------------
+
