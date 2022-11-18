@@ -1,5 +1,5 @@
 portfolio_david_repository
----------------------------
+------------------------------------------------------------------------------
 ===PROFILE===
 Nama          : David Kresna 
 NIM           : 20.N1.0003
@@ -24,7 +24,6 @@ Email : david.krisna12@gmail.com
 
 ===Hobby===
 - Badminton
-- Sepeda
 - Basket
 - Futsal
 
@@ -43,5 +42,5 @@ Email : david.krisna12@gmail.com
 
 ===Work Experience===
 - 2020 (6 Bulan) : Barista Ruang Hati Tanah Mas Semarang
----------------------------
+------------------------------------------------------------------------------
 
